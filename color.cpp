@@ -9,6 +9,7 @@
 using namespace std;    // std::cout, std::cin
 int main()
 {
+int a;
   HANDLE  hConsole;
 	int k;
 
